@@ -1,0 +1,2 @@
+# For Win10 Pro use: "python -m notebook" to open jupyternotebook in browser
+# In PyCharm there seems to be an issue with jupyter notebook. Open jupyter from projects that weren't created with pyCharm. Need to investigate issue
