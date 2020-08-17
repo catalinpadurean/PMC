@@ -1,6 +1,6 @@
 """Building a real world program, database for books. We will also build an executable file """
 
-#We will use tkinter for GUI and sqlite3 for database (addapt for PostgreSQL as well)
+#We will use tkinter for GUI and sqlite3 for database 
 #Before starting the work on frontend|backend first we must clarify the requirements
 """ 
 This app will store book information: Title, Author, Year, ISBN

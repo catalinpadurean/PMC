@@ -18,7 +18,7 @@ The user can:
 
 import sqlite3
 
-#Create functions for database manipulation acording to the buttons designed in the frontend script(cap22_file_00.py)
+#Create functions for database manipulation acording to the buttons designed in the frontend script
 
 #Create a connection to a database
 def connect_db():
@@ -74,6 +74,7 @@ def update_db(id, title, author, year, isbn):
     connection.commit()
     connection.close()
 
-#Call connect_db to run everytime we run the cap22_file_01.py (BACKEND)
-#cap22_file_01.py will be imported in the frontend script(cap22_file_00.py)
+#Call connect_db in order for it to run everytime we run the frontend script.
+#Just by importing the backend into the frontend the connect_db() will ba called
+
 connect_db()
