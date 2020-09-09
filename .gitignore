@@ -3,4 +3,4 @@
 /cap_22/dist/PMC_app4
 /cap_22/*.spec
 /*.code-workspace
-/cap_23/__pycache__
+/cap_23/__pycache__/*.pyc
