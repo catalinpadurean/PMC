@@ -1,0 +1,51 @@
+#:kivy 2.0.0
+#Make sure that you don't use assignment opperatos in kivy language but use ':' instead of '='
+
+<LoginScreen>:
+    GridLayout:
+    #This GridLayout will be the main window which will have one column and will be contain 2 GridLayouts:
+    # 1: A GridLayout containing the username-password "window"
+    # 2: The one where the message will be shown
+        cols: 1
+        GridLayout: #GridLayout with 1 default column. Will be used for user and pass
+            cols: 1
+            Label: #Widget
+                text: "User Login"
+            TextInput:  #Widget
+                hint_text: "Username"
+            TextInput:  #Widget
+                hint_text: "Password"
+            Button:
+                text: "Login"
+        GridLayout: #GL with 2 columns. Will be used for message
+            cols: 2
+            Button:
+                text: "Forgot Password ?"
+            Button:
+                text: "Sign Up"
+                on_press: root.sign_up()
+                #root is a special name used insidea kivi file.
+                #The root refers to the class of the rule widget.
+                #The rule widget in here is LogiScreen which is connected to the LoginScreen class
+
+<SignUpScreen>:
+    GridLayout:
+        cols: 1
+        Label:
+            text: "Sign up for a space journey!"
+        TextInput:
+            id: username
+            hint_text: "Username"
+        TextInput:
+            id: password
+            hint_text: "Password"
+        Button:
+            text: "Submit"
+            on_press: root.add_user(root.ids.username.text, root.ids.password.text)
+
+
+<RootWidget>: #Keeps records of all the screens of the app
+    LoginScreen:
+        name: "login_screen" #this name will be used in the python logic
+    SignUpScreen:
+        name: "sign_up_screen" #this name will be used in the python logic
