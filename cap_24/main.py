@@ -3,7 +3,7 @@
 #Creating a login page
 #A good practice is to write the features of the GUI in kivi file in kivi language
 #Python will be used for logic and kivi for design
-
+#Tip: Shift + Alt + F in json files to format the file for a better reading
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.uix.screenmanager import ScreenManager, Screen
