@@ -4,3 +4,4 @@
 /cap_22/*.spec
 /*.code-workspace
 /cap_23/__pycache__/*.pyc
+/cap_24/__pycache__/*.pyc
