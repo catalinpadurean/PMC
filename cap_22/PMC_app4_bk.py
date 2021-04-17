@@ -75,6 +75,6 @@ def update_db(id, title, author, year, isbn):
     connection.close()
 
 #Call connect_db in order for it to run everytime we run the frontend script.
-#Just by importing the backend into the frontend the connect_db() will ba called
+#Just by importing the backend into the frontend the connect_db() will be called
 
 connect_db()
