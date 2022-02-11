@@ -1,8 +1,0 @@
-======================Current modules======================
-" Python Developer - introduction"
-" Python - the basics"  
-" Python - technology" 
-======================Future modules=======================
-" Git system" 
-" Python - intermediate" 
-===========================================================
