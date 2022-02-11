@@ -1,0 +1,5 @@
+Name    | Address          | Phone
+Nume_pro| Adresa_prob      | 99999
+Mary    | Privet Drive 5   | +1234
+Jake    | Mosfet St. 190   | +5678
+Emma    | Downtown Av. 2   | +0021

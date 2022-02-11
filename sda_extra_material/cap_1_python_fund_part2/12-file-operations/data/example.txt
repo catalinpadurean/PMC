@@ -1,0 +1,4 @@
+Name    | Address          | Phone
+Mary    | Privet Drive 5   | +1234
+Jake    | Mosfet St. 190   | +5678
+Emma    | Downtown Av. 2   | +0021

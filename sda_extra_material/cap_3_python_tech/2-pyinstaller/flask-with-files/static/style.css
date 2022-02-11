@@ -1,0 +1,8 @@
+body {
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    background: #333;
+    color: #eee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,61 @@
+Concepte pe care nu le-am acoperit la curs deoarece e prea devreme sa intrati in contact cu unele dintre ele.
+Pentru curiozitati|aprofundare folositi linkurile de mai jos.
+Multe dintre acestea vor fi acoperite in modulele viitoare asa ca nu va faceti griji daca nu intelegeti din aceste linkuri.
+
+0*. Linkuri utile pentru recapitulare:
+- https://www.guru99.com/python-tutorials.html
+- https://www.learnpython.org/en/
+
+1. List comprehension:
+- https://www.w3schools.com/python/python_lists_comprehension.asp
+- https://realpython.com/list-comprehension-python/
+
+2. Lambda functions:
+- https://www.w3schools.com/python/python_lambda.asp
+- https://realpython.com/python-lambda/
+
+3. Abstract class:
+- https://www.geeksforgeeks.org/abstract-classes-in-python/
+- https://pythonprogramminglanguage.com/abstract-base-classes/
+- https://www.python-course.eu/python3_abstract_classes.php
+
+4. Interface
+- https://medium.com/@alifabdullah/easiest-explanation-of-abstract-class-and-interface-280741bc2daf
+- https://stackoverflow.com/questions/761194/interface-vs-abstract-class-general-oo
+- https://realpython.com/python-interface/
+
+5. Frozen set
+- https://www.programiz.com/python-programming/methods/built-in/frozenset
+- https://www.python-course.eu/sets_frozensets.php
+
+6. Sys module
+- https://www.tutorialsteacher.com/python/sys-module
+- https://www.geeksforgeeks.org/python-sys-module/
+
+7. Site-uri unde puteti sa exersati
+- https://coderbyte.com/
+- https://www.codewars.com/
+- https://www.codecademy.com/learn
+
+8. Yield vs Return
+- https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/
+
+9. Continue vs Pass
+- https://www.geeksforgeeks.org/difference-between-continue-and-pass-statements-in-python/
+
+10. Inheritance
+- https://www.w3schools.com/python/python_inheritance.asp
+
+11. os module
+- https://www.geeksforgeeks.org/os-module-python-examples/
+- https://stackabuse.com/introduction-to-python-os-module/
+
+12. Recursion
+- https://www.programiz.com/python-programming/recursion
+
+13. Ceva interesant de citit
+ - https://automatetheboringstuff.com/
+
+
+
+

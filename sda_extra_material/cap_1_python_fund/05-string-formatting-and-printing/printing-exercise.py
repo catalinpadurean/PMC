@@ -1,0 +1,13 @@
+# print("|START|", end="")
+# print(0, end="|END|\n|END|")
+# print(1, end="|START|\n|START|")
+# print(2, end="|END|\n|END|")
+# print(3, end="|START|\n|START|")
+# print(4, end="|END|\n|END|")
+# print(5, end="|START|")
+
+print("|START|", end="")
+print(0, 1, sep="|END|\n|START|", end="|END|\n|START|")
+print(2, 3, sep="|END|\n|START|", end="|END|\n|START|")
+print(4, 5, sep="|END|\n|START|", end="|END|\n|START|")
+print(5, 6, sep="|END|\n|START|", end="|END|\n")
