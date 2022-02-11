@@ -1,0 +1,16 @@
+.vscode/
+.venv/
+.idea/
+venv/
+build/
+*-build/
+*-dist/
+dist/
+__pycache__/
+**/venv
+
+*.pyc
+*.pyo
+*.spec
+
+

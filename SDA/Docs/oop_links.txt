@@ -1,0 +1,5 @@
+https://www.datacamp.com/community/tutorials/role-underscore-python
+https://www.geeksforgeeks.org/underscore-_-python/
+https://medium.com/python-features/naming-conventions-with-underscores-in-python-791251ac7097
+https://stackoverflow.com/questions/8689964/why-do-some-functions-have-underscores-before-and-after-the-function-name
+https://stackoverflow.com/questions/7456807/python-name-mangling
